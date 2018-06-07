@@ -8,4 +8,5 @@ The code takes the FEC's spreadsheet and converts it into a tidy format, and the
 * winners share of the vote in primaries and generals
 * number of voters in primaries and generals
 * flags for open seat race, plurality winner, incumbent defeated, party changed
+
 There is an accounting for states that have different systems, such as those that use Top Two and those that have runoff elections for primaries where no candidate received a majority.
